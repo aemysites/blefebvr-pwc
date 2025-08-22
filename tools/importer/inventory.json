@@ -1,0 +1,705 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 127
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-18-958bb9bdda91b334a15be58ef58749aa26ee6123",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-19-958bb9bdda91b334a15be58ef58749aa26ee6123",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-15-958bb9bdda91b334a15be58ef58749aa26ee6123",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(245, 247, 248) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Hero",
+      "cluster": 1,
+      "source": "Hero",
+      "target": "Hero (hero1)",
+      "key": "hero1",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-01-86bfa6851a4fa496ba0321444cd03ee2e36c973f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards",
+      "key": "cardsNoImages2",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-09-8549281944c5e83d706750705e01dd6514992f6f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[6]",
+          "section": "section-6"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-02-969a168a43dca6ff08aefc94c0db876c7ee5cd11",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-09-a9b4e0e40b46a860a292667961496669b1cb1c44",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/section[1]/div[1]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-11-5c42a9ae13e189c63dc072ec9fac3d89aa2b38fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[7]/section[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-05-deac2c6607d524250c94bc712881b88f982c5493",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 6,
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-18-958bb9bdda91b334a15be58ef58749aa26ee6123",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-19-958bb9bdda91b334a15be58ef58749aa26ee6123",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-15-958bb9bdda91b334a15be58ef58749aa26ee6123",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 7,
+      "source": "Cards",
+      "target": "Cards (cards7)",
+      "key": "cards7",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-16-1325f8de19c22aa435b081e2cc9c8f3ac3a5d419",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-13-1325f8de19c22aa435b081e2cc9c8f3ac3a5d419",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 8,
+      "source": "Hero",
+      "target": "Hero (hero8)",
+      "key": "hero8",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-14-90a115a2510cafa0fe1d097b8ddc388a0dbf6b84",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[12]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-12-08f2115e72612cace311e4ef4243a059a62518d6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[13]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-06-0a69947ee361f6ebfaf39eddf15abb6e7dbeb4dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-06-0a69947ee361f6ebfaf39eddf15abb6e7dbeb4dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-15-269ead7a63313b0a7c5a57aab67b703f78dcfa3d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 10,
+      "source": "Header",
+      "target": "Header",
+      "key": "header10",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 11,
+      "source": "Accordion",
+      "target": "Accordion",
+      "key": "accordion11",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-14-7922604ec444f14d97c68d0c46e7db1225fc36f6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[8]/section[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 12,
+      "source": "Cards",
+      "target": "Cards (cards12)",
+      "key": "cards12",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-13-8de5197c92eb14b2bfe675b7a52f74b5ad476fdb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[10]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 13,
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-03-4eef7074c472122ad3dccff231607f6ac105afa6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 14,
+      "source": "Columns",
+      "target": "Columns (columns14)",
+      "key": "columns14",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-04-e0fdd8a5fcba55ee6240b41b379469ff2de2ceec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 15,
+      "source": "Cards",
+      "target": "Cards (cards15)",
+      "key": "cards15",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-04-fe406a93452310a540248efd5ae87feb572af77d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 16,
+      "source": "Cards",
+      "target": "Cards (cards16)",
+      "key": "cards16",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-05-2bde8be989d28fb503bd72903afa1b4d219a1f39",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[3]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 17,
+      "source": "Cards",
+      "target": "Cards (cards17)",
+      "key": "cards17",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-12-bd02ec0c2ced22fc30517edb8b83fa90e4b2aa33",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[7]/section[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 18,
+      "source": "Cards",
+      "target": "Cards (cards18)",
+      "key": "cards18",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-08-9218ad22a9e857cf7863d2345d9991f48cdcf9c8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[4]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 19,
+      "source": "Columns",
+      "target": "Columns (columns19)",
+      "key": "columns19",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-08-6f584a3eb44345307fcd395dc3ce6a75bceff474",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[5]/section[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 20,
+      "source": "Tabs",
+      "target": "Tabs",
+      "key": "tabs20",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-04-16cbc3a029a011b968fe5e066672903e03293503",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[3]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "urlHash": "2419d5b23267aab858df865af528479680605c00",
+          "uuid": "2419d5b2-10-9e1ef206975f0c7e8c312e286a521b1302a54f43",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[2]/section[1]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 22,
+      "source": "Hero",
+      "target": "Hero (hero22)",
+      "key": "hero22",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-01-86bfa6851a4fa496ba0321444cd03ee2e36c973f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "source": "Columns",
+      "target": "Columns (columns23)",
+      "key": "columns23",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+          "uuid": "a98ff398-11-8549281944c5e83d706750705e01dd6514992f6f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[6]",
+          "section": "section-8"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 24,
+      "source": "Hero",
+      "target": "Hero (hero24)",
+      "key": "hero24",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-01-86bfa6851a4fa496ba0321444cd03ee2e36c973f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 25,
+      "source": "Columns",
+      "target": "Columns (columns25)",
+      "key": "columns25",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-02-969a168a43dca6ff08aefc94c0db876c7ee5cd11",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 26,
+      "source": "Cards",
+      "target": "Cards (cards26)",
+      "key": "cards26",
+      "instances": [
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+          "uuid": "49793a0b-16-f0590e63872ccebd5f5ec8bf9976e781f73dbefc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[10]",
+          "section": "section-2"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+      "urlHash": "2419d5b23267aab858df865af528479680605c00",
+      "uuid": "2419d5b2-02-d6443450f29b80a8a8a4d5b4bf576c7b208202e4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+      "urlHash": "2419d5b23267aab858df865af528479680605c00",
+      "uuid": "2419d5b2-03-bf04d968934714a15f4b3aeb5890d905ee489c12",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+      "urlHash": "2419d5b23267aab858df865af528479680605c00",
+      "uuid": "2419d5b2-07-f688a3c8666e924f072c272cd51a528f047a8894",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/section[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+      "urlHash": "2419d5b23267aab858df865af528479680605c00",
+      "uuid": "2419d5b2-08-00a196dba26206cd9df9ec573f0ddc2864234079",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/section[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+      "urlHash": "2419d5b23267aab858df865af528479680605c00",
+      "uuid": "2419d5b2-11-e8fe14133bc9b5b466281a2099a94d99e0f2544a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[8]/div[1]/div[2]/section[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+      "urlHash": "2419d5b23267aab858df865af528479680605c00",
+      "uuid": "2419d5b2-12-2cd711dc25869d985768891ed5962e8d2b8f08bd",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[10]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+      "urlHash": "2419d5b23267aab858df865af528479680605c00",
+      "uuid": "2419d5b2-15-08f2115e72612cace311e4ef4243a059a62518d6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[13]"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+      "urlHash": "2419d5b23267aab858df865af528479680605c00",
+      "uuid": "2419d5b2-17-e3ff487c661a1ffc7512e9ab0258137681ca2b8f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/services/alliances.html",
+      "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+      "uuid": "49793a0b-03-fbbd2ffd5a6bb9bb44709cee6d676fd93b06c74e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[3]/section[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/services/alliances.html",
+      "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+      "uuid": "49793a0b-07-d698544012d02161a0a259886af2c3810b8dd48a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[5]/section[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/services/alliances.html",
+      "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+      "uuid": "49793a0b-10-e6247a03ccb13f299cb7c7453b4a07e7ba3643bb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[7]/section[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/services/alliances.html",
+      "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+      "uuid": "49793a0b-13-a1eefe81f81f69c4cb67916e6f0f39e6152425a2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[8]/section[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/services/alliances.html",
+      "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+      "uuid": "49793a0b-17-90a115a2510cafa0fe1d097b8ddc388a0dbf6b84",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[12]"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/services/alliances.html",
+      "urlHash": "49793a0b125c1e6b241937b9cbcad6239ea72f7a",
+      "uuid": "49793a0b-18-e3ff487c661a1ffc7512e9ab0258137681ca2b8f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/issues/technology.html",
+      "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+      "uuid": "a98ff398-05-221f3e4bd69681736d4e6fc4752c075d40d44510",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[4]/section[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/issues/technology.html",
+      "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+      "uuid": "a98ff398-06-9f0efd5fc9b4c62d201e54da739f4011e137caf1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[4]/section[1]/div[1]/div[2]/div[1]/ul[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/issues/technology.html",
+      "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+      "uuid": "a98ff398-07-72f0863cfda28368809085e6c683991d9412d631",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[4]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/issues/technology.html",
+      "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+      "uuid": "a98ff398-09-5f7f17182abf12d591038ca8e6f5443e368643ec",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[4]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/issues/technology.html",
+      "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+      "uuid": "a98ff398-10-217bfb10c43a899f73114a4aca9da7485c09c258",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[5]",
+      "section": "section-8"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/issues/technology.html",
+      "urlHash": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d",
+      "uuid": "a98ff398-14-e3ff487c661a1ffc7512e9ab0258137681ca2b8f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+      "section": "section-5"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(255, 255, 255) none repeat scroll 100% 0% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(255, 255, 255) none repeat scroll 50% 0% / cover padding-box border-box",
+      "count": 30
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(255, 232, 212) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-4",
+      "background": "rgb(245, 247, 248) url(\"https://www.pwc.com/content/dam/pwc/gx/en/so-you-can/syc-promo.jpg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-5",
+      "background": "rgb(245, 247, 248) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 6
+    },
+    {
+      "name": "section-6",
+      "background": "rgb(255, 245, 237) none repeat scroll 50% 0% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-7",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-8",
+      "background": "rgb(255, 255, 255) none repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 2
+    }
+  ]
+}
