@@ -1,0 +1,34 @@
+{
+  "originUrl": "https://www.pwc.com",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+      "source": "MANUAL",
+      "targetPath": "/gx/en/about/purpose-values-and-behaviours",
+      "id": "2419d5b23267aab858df865af528479680605c00"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/issues/technology.html",
+      "source": "MANUAL",
+      "targetPath": "/gx/en/issues/technology",
+      "id": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/services/alliances.html",
+      "source": "MANUAL",
+      "targetPath": "/gx/en/services/alliances",
+      "id": "49793a0b125c1e6b241937b9cbcad6239ea72f7a"
+    }
+  ],
+  "lastCrawled": null,
+  "crawlOptions": {
+    "limit": 100,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
