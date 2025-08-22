@@ -1,0 +1,28 @@
+{
+  "templates": [
+    {
+      "name": "Dashboard Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.pwc.com/gx/en/issues/technology.html",
+          "uuid": "a98ff398b96e9cf851a3cd9d6d7f0892474bf62d"
+        },
+        {
+          "url": "https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html",
+          "uuid": "2419d5b23267aab858df865af528479680605c00"
+        }
+      ]
+    },
+    {
+      "name": "\"Dashboard Template\"",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.pwc.com/gx/en/services/alliances.html",
+          "uuid": "49793a0b125c1e6b241937b9cbcad6239ea72f7a"
+        }
+      ]
+    }
+  ]
+}
